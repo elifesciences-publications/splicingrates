@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Pai et al., "The kinetics of pre-mRNA splicing in the Drosophila genome and the influence of gene architecture". eLife, 2017. http://dx.doi.org/10.7554/eLife.32537
+
+
 # splicingrates
 
 CODE FOR PAI et al 2018 eLIFE
